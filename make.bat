@@ -1,0 +1,1 @@
+mvn package && echo "java -cp d.1.0-Snapshot.jar d.d.App" > edit_run.bat && notify-send "update" "done sucessfully"
